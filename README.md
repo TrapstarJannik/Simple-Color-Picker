@@ -29,7 +29,7 @@
 
 ## Pictures
 
-![image](https://raw.githubusercontent.com/TrapstarJannik/images/main/Screenshot_59.png?token=GHSAT0AAAAAACQ6KAJTQVENHUJWL5D3G2EOZQ4CCJA)
+![image](https://github.com/TrapstarJannik/images/blob/main/Screenshot_59.png)
 
 
 
