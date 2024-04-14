@@ -5,8 +5,8 @@
 # Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Pictures](#pictures)
 - [Usage](#usage)
+- [Pictures](#pictures)
 
 
 ## Features
