@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jannik's Color Picker 🎨</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Jannik's Color Picker 🎨</h1>
+  </header>
+
+  <div id="colorPickerWrapper">
+    <canvas id="colorPalette" width="256" height="256"></canvas>
+    <div id="colorDisplay"></div>
+  </div>
+
+  <div id="colorCodes">
+    <input type="text" id="colorHex" value="HEX: #808080" readonly>
+    <input type="text" id="colorRGB" placeholder="RGB Code" readonly>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

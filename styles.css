@@ -1,0 +1,65 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #36393f;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #202225;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+#colorPickerWrapper {
+  margin: 20px auto; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#colorPalette {
+  border-radius: 50%;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+#colorDisplay {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 50%;
+  background-color: #ffffff; 
+}
+
+#colorCodes {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+#colorCodes input {
+  margin: 0 10px;
+  border-radius: 10px;
+  background-color: #202225;
+  color: #ffffff;
+  border: none;
+  padding: 5px 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+#colorHex::before {
+  content: "HEX: ";
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+}
