@@ -29,7 +29,7 @@
 
 ## Pictures
 
-![image](https://github.com/TrapstarJannik/images/blob/main/Screenshot_59.png)
+![Screenshot_59](https://github.com/TrapstarJannik/Simple-Color-Picker/assets/166982775/1d16a110-a887-415e-affb-4fde90ce1865)
 
 
 
