@@ -1,4 +1,4 @@
-# Simple-Color-Picker V1
+# Simple-Color-Picker V1 🎨
 > [!IMPORTANT]
 > This is a little project I want to continue in the future, so I make it open-source.
 
